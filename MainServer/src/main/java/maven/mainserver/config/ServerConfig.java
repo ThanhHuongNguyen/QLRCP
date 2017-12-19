@@ -5,8 +5,8 @@
  */
 package maven.mainserver.config;
 
-import common.config.ConfigMethod;
-import common.util.Util;
+import maven.multiutil.config.ConfigMethod;
+import maven.multiutil.util.Util;
 
 /**
  *
